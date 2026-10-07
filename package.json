@@ -1,0 +1,21 @@
+{
+  "name": "00_node",
+  "version": "1.0.0",
+  "description": "First node",
+  "homepage": "https://github.com/espinosa-dev/00_nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/espinosa-dev/00_nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espinosa-dev/00_nodejs.git"
+  },
+  "license": "ISC",
+  "author": "espinosadev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  }
+}
